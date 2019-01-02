@@ -516,11 +516,11 @@ ol {
 
 .portfolio-item .pi-inner h2 {
   opacity: 0;
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 400;
   position: absolute;
   left: 25px;
-  bottom: 50px;
+  bottom: 0px;
   color: #fff;
   letter-spacing: 10px;
   -webkit-transition: all 0.2s ease 0s;
