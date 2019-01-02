@@ -1,1 +1,0 @@
-This is a personal website about Rohan Vasishth, hence me. It includes information about my coding projects and past experience.
