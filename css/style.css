@@ -838,6 +838,7 @@ ol {
   }
   .home-main-menu ul li a {
     padding: 10px 15px;
+    color: #001418;
     border-bottom: 1px solid #ddd;
     display: block;
   }
@@ -867,7 +868,7 @@ ol {
     position: absolute;
     right: 25px;
     font-size: 30px;
-    color: #979797;
+    color: #333;
     top: 35px;
     display: block;
   }
@@ -886,6 +887,9 @@ ol {
 @media only screen and (max-width: 479px) {
   .section-title {
     font-size: 30px;
+  }
+  .home-main-menu ul li a {
+    color: #001418;
   }
 }
 
