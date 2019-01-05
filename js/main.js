@@ -83,10 +83,6 @@
 			window.open(`${url}`, "_blank")
 		});
 
-		$(".portfolio-item").on("taphold", function(event) {
-			window.alert("hi")
-		});
-
 
 	/*------------------
 		Accordions
