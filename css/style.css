@@ -124,15 +124,17 @@ ol {
 @keyframes loader {
   0% {
     -webkit-transform: rotate(0deg);
-            transform: rotate(0deg);
+    transform: rotate(0deg);
   }
+
   50% {
     -webkit-transform: rotate(180deg);
-            transform: rotate(180deg);
+    transform: rotate(180deg);
   }
+
   100% {
     -webkit-transform: rotate(360deg);
-            transform: rotate(360deg);
+    transform: rotate(360deg);
   }
 }
 
@@ -140,9 +142,11 @@ ol {
   0% {
     -webkit-transform: rotate(0deg);
   }
+
   50% {
     -webkit-transform: rotate(180deg);
   }
+
   100% {
     -webkit-transform: rotate(360deg);
   }
@@ -453,7 +457,7 @@ ol {
     Intro Section
 --------------------------*/
 .home-intro-section {
-  padding: 50px 0;
+  padding: 90px 0;
 }
 
 .intro-section {
@@ -794,6 +798,7 @@ ol {
   .body-pad {
     padding: 0 30px;
   }
+
   .portfolio-item {
     height: 350px;
   }
@@ -804,6 +809,7 @@ ol {
   .body-pad {
     padding: 0 15px;
   }
+
   .main-menu {
     position: absolute;
     background: #efefef;
@@ -814,14 +820,17 @@ ol {
     padding-top: 15px;
     display: none;
   }
+
   .main-menu ul li a {
     padding: 10px 15px;
     border-bottom: 1px solid #ddd;
     display: block;
   }
+
   .main-menu ul li {
     display: block;
   }
+
   .main-menu ul li:last-child a {
     border-bottom: none;
   }
@@ -836,15 +845,18 @@ ol {
     padding-top: 15px;
     display: none;
   }
+
   .home-main-menu ul li a {
     padding: 10px 15px;
     color: #001418;
     border-bottom: 1px solid #ddd;
     display: block;
   }
+
   .home-main-menu ul li {
     display: block;
   }
+
   .home-main-menu ul li:last-child a {
     border-bottom: none;
   }
@@ -853,9 +865,11 @@ ol {
   .home-2 {
     text-align: left;
   }
+
   .home-2 .main-menu {
     top: 99px;
   }
+
   .nav-switch {
     position: absolute;
     right: 25px;
@@ -864,6 +878,7 @@ ol {
     top: 35px;
     display: block;
   }
+
   .home-nav-switch {
     position: absolute;
     right: 25px;
@@ -872,12 +887,15 @@ ol {
     top: 35px;
     display: block;
   }
+
   .header-btn {
     display: none;
   }
+
   .section-title {
     font-size: 45px;
   }
+
   .portfolio-filter {
     text-align: center;
   }
@@ -888,6 +906,7 @@ ol {
   .section-title {
     font-size: 30px;
   }
+
   .home-main-menu ul li a {
     color: #001418;
   }
